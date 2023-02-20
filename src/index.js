@@ -4,10 +4,16 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import Practise2 from './Practise2';
+import './style.css'
+
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+  <Practise2>
+    
+  </Practise2>
   </React.StrictMode>
 );
 
